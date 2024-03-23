@@ -1,0 +1,4 @@
+Nicolas Szymanski
+SID: 101324780
+
+Git repository created from AWS EC2 Instance (Which is a lie, it's created from an Azure VM instance!).
